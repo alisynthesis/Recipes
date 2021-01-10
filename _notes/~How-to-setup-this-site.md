@@ -1,6 +1,7 @@
 ---
 title: How to setup this site
 tags: Theme
+toc: false
 season : summer
 ---
 
