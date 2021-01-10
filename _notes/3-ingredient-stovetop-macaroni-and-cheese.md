@@ -1,6 +1,6 @@
 ---
 title: 3-Ingredient Stovetop Macaroni and Cheese
-tags: ComfortFood
+tags: OneDish ComfortFood
 toc: true
 ---
 
