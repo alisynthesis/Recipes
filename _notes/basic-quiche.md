@@ -32,3 +32,5 @@ Makes 2 pies
 1.  Thaw one bag overnight in the fridge
 2.  Pour into one frozen crust
 3.  Bake at 375 for 45 minutes
+
+Tags: #OneDish 
