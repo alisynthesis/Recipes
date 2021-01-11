@@ -3,9 +3,9 @@ title: Greta's Amazing Chocolate Pie
 tags: Dessert Standout
 toc: true
 ---
-Originally from [freethoughtblogs.com](http://freethoughtblogs.com/greta/2011/11/24/gretas-amazing-chocolate-pie-2/)
-
 This is a ridiculously easy, unbelievably delicious recipe for chocolate pie.
+
+Originally from [freethoughtblogs.com](http://freethoughtblogs.com/greta/2011/11/24/gretas-amazing-chocolate-pie-2/)
 
 ### Ingredients
 
