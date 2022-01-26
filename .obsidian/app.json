@@ -6,5 +6,7 @@
   "attachmentFolderPath": "assets/img",
   "enabledPlugins": [
     "obsidian-git"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }

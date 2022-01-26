@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2-Ingredient No Bake Chocolate Maple Cookies.md",
-            "mode": "source"
+            "file": "_notes/Instant Pot Curried Lentil Soup.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2-Ingredient No Bake Chocolate Maple Cookies.md",
+                "file": "_notes/Instant Pot Curried Lentil Soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "3487f767633c8c4a",
   "lastOpenFiles": [
+    "_notes/Instant Pot Curried Lentil Soup.md",
+    "_notes/healthy-extra-moist-chocolate-cake.md",
+    "_notes/chicken-in-milk.md",
+    "_notes/basic-quiche.md",
+    "_notes/authentic-thai-chicken-curry.md",
     "_notes/2-Ingredient No Bake Chocolate Maple Cookies.md",
     "_notes/3-Ingredient Baked Bananas.md",
     "tags.md",
     "about.md",
-    "dates.md",
-    "index.md",
-    "notes.md",
-    "_notes/~Obsidian integration.md",
-    "_notes/healthy-extra-moist-chocolate-cake.md",
-    "_notes/Untitled.md"
+    "dates.md"
   ]
 }
