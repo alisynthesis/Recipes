@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "43836d61d977be6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3257c5b4038c38b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3487f767633c8c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/thai-butternut-squash-soup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "017db298ef31b09e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/white-bean-potato-mushroom-stew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4eb942d49ab42043",
+    "type": "split",
+    "children": [
+      {
+        "id": "551aa2d1c708d9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5018a426c9380d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ac403ab1e35f434",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94ada79a22e35eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "226f345916b37846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2b522ff4edf9b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/white-bean-potato-mushroom-stew.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "017db298ef31b09e",
+  "lastOpenFiles": [
+    "_notes/thai-butternut-squash-soup.md",
+    "_notes/authentic-thai-chicken-curry.md",
+    "_notes/Sweet Potato Mac and Cheese with Spinach.md",
+    "_notes/sesame-chicken-restaurant-style.md",
+    "_notes/one-pan-farro-with-tomatoes.md",
+    "_notes/all-in-one-instant-pot-chicken-and-brown-rice.md",
+    "_notes/Instant Pot Curried Lentil Soup.md",
+    "_notes/healthy-extra-moist-chocolate-cake.md",
+    "_notes/chicken-in-milk.md",
+    "_notes/basic-quiche.md"
+  ]
+}
