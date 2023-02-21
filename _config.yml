@@ -52,4 +52,4 @@ defaults:
       layout: post
       content-type: notes
       
-      exclude: vendor
+exclude:  cache/bundle
