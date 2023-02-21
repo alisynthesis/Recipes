@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/white-bean-potato-mushroom-stew.md",
+                "file": "_notes/~How-to-setup-this-site.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/white-bean-potato-mushroom-stew.md",
+                "file": "_notes/~How-to-setup-this-site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "017db298ef31b09e",
   "lastOpenFiles": [
+    "_notes/~how-markdown-is-rendered.md",
+    "_notes/~How to use the special features.md",
+    "about.md",
+    "dates.md",
+    "index.md",
+    "_site/README.md",
+    "_notes/~How-to-setup-this-site.md",
+    "_notes/white-bean-potato-mushroom-stew.md",
     "_notes/thai-butternut-squash-soup.md",
-    "_notes/authentic-thai-chicken-curry.md",
-    "_notes/Sweet Potato Mac and Cheese with Spinach.md",
-    "_notes/sesame-chicken-restaurant-style.md",
-    "_notes/one-pan-farro-with-tomatoes.md",
-    "_notes/all-in-one-instant-pot-chicken-and-brown-rice.md",
-    "_notes/Instant Pot Curried Lentil Soup.md",
-    "_notes/healthy-extra-moist-chocolate-cake.md",
-    "_notes/chicken-in-milk.md",
-    "_notes/basic-quiche.md"
+    "_notes/authentic-thai-chicken-curry.md"
   ]
 }
