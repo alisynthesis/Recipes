@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/thai-butternut-squash-soup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "017db298ef31b09e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/~How-to-setup-this-site.md",
+                "file": "_notes/best-big-fat-chewy-chocolate-chip-cookie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f46ebf2f4a3c6d6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/~How-to-setup-this-site.md",
+                "file": "_notes/best-big-fat-chewy-chocolate-chip-cookie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -118,17 +112,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "017db298ef31b09e",
+  "active": "3487f767633c8c4a",
   "lastOpenFiles": [
+    "_notes/Mexican Wedding Cookies.md",
+    "_notes/2-Ingredient No Bake Chocolate Maple Cookies.md",
+    "_notes/best-big-fat-chewy-chocolate-chip-cookie.md",
+    "_notes/beef-n-eggplant-pie.md",
+    "_notes/3-ingredient-stovetop-macaroni-and-cheese.md",
+    "_notes/3-Ingredient Baked Bananas.md",
+    "_notes/thai-butternut-squash-soup.md",
+    "_notes/~How-to-setup-this-site.md",
     "_notes/~how-markdown-is-rendered.md",
     "_notes/~How to use the special features.md",
     "about.md",
     "dates.md",
     "index.md",
     "_site/README.md",
-    "_notes/~How-to-setup-this-site.md",
     "_notes/white-bean-potato-mushroom-stew.md",
-    "_notes/thai-butternut-squash-soup.md",
     "_notes/authentic-thai-chicken-curry.md"
   ]
 }
