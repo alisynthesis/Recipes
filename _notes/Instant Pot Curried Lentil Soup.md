@@ -3,8 +3,6 @@ title: Instant Pot Curried Lentil Soup
 tags: Soup Vegan Gluten-free Onedish
 toc: true
 ---
-![../assets/img/EASY-Instant-Pot-Lentil-Soup-Comforting-nutrient-packed-infused-with-curry-powder-and-just-1-pot-required-minimalistbaker-recipe-plantbased-lentilsoup-instantpot-5.webp](app://local/C%3A%5CUsers%5Cmalis%5CWebsites%5CRecipes%5Cassets%5Cimg%5CEASY-Instant-Pot-Lentil-Soup-Comforting-nutrient-packed-infused-with-curry-powder-and-just-1-pot-required-minimalistbaker-recipe-plantbased-lentilsoup-instantpot-5.webp?1643225386338)
-
 Originally from https://minimalistbaker.com/instant-pot-curried-lentil-soup/#wprm-recipe-container-88562 
 
 Comforting lentil soup with a little bit of spice, a lot-a-bit of flavor, and just the right amount of creaminess. A nourishing, plant-based meal made effortless with the help of the Instant Pot!
