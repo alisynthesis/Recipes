@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
+                "file": "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#holiday",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
+                "file": "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +94,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "045949c157503de8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -114,8 +125,10 @@
   },
   "active": "3487f767633c8c4a",
   "lastOpenFiles": [
-    "_notes/Instant Pot Curried Lentil Soup.md",
+    "_notes/awesome-sausage-apple-and-cranberry-stuffing.md",
+    "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
     "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
+    "_notes/Instant Pot Curried Lentil Soup.md",
     "_notes/one-pan-farro-with-tomatoes.md",
     "_notes/best-big-fat-chewy-chocolate-chip-cookie.md",
     "_notes/Mexican Wedding Cookies.md",
