@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
+                "file": "_notes/pasta-con-ceci.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#holiday",
+                "query": "tag:#InstantPot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
+                "file": "_notes/pasta-con-ceci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3487f767633c8c4a",
+  "active": "2ac403ab1e35f434",
   "lastOpenFiles": [
+    "_notes/pasta-con-ceci.md",
     "_notes/awesome-sausage-apple-and-cranberry-stuffing.md",
     "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
     "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
