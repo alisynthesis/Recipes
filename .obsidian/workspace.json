@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Rice Krispies Treats.md",
+                "file": "_notes/Hot Chocolate Mix.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Rice Krispies Treats.md",
+                "file": "_notes/Hot Chocolate Mix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,9 @@
   },
   "active": "3487f767633c8c4a",
   "lastOpenFiles": [
-    "_notes/pasta-con-ceci.md",
     "_notes/Rice Krispies Treats.md",
+    "_notes/Hot Chocolate Mix.md",
+    "_notes/pasta-con-ceci.md",
     "_notes/awesome-sausage-apple-and-cranberry-stuffing.md",
     "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
     "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
