@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Hot Chocolate Mix.md",
+                "file": "_notes/Liquid Gold Sauce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Hot Chocolate Mix.md",
+                "file": "_notes/Liquid Gold Sauce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -124,12 +126,13 @@
   },
   "active": "3487f767633c8c4a",
   "lastOpenFiles": [
-    "_notes/Rice Krispies Treats.md",
+    "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
+    "_notes/Liquid Gold Sauce.md",
     "_notes/Hot Chocolate Mix.md",
+    "_notes/Rice Krispies Treats.md",
     "_notes/pasta-con-ceci.md",
     "_notes/awesome-sausage-apple-and-cranberry-stuffing.md",
     "_notes/awesome-sausage-apple-and-cranberry-stuffing 1.md",
-    "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
     "_notes/Instant Pot Curried Lentil Soup.md",
     "_notes/one-pan-farro-with-tomatoes.md",
     "_notes/best-big-fat-chewy-chocolate-chip-cookie.md",
