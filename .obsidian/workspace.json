@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Liquid Gold Sauce.md",
+                "file": "_notes/Chicken and Sausage Gnocchi Stew.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Liquid Gold Sauce.md",
+                "file": "_notes/Chicken and Sausage Gnocchi Stew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,10 @@
   },
   "active": "3487f767633c8c4a",
   "lastOpenFiles": [
-    "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
+    "_notes/French Onion Baked Lentils and Farro.md",
+    "_notes/Chicken and Sausage Gnocchi Stew.md",
     "_notes/Liquid Gold Sauce.md",
+    "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
     "_notes/Hot Chocolate Mix.md",
     "_notes/Rice Krispies Treats.md",
     "_notes/pasta-con-ceci.md",
@@ -149,7 +151,6 @@
     "dates.md",
     "index.md",
     "_site/README.md",
-    "_notes/white-bean-potato-mushroom-stew.md",
-    "_notes/authentic-thai-chicken-curry.md"
+    "_notes/white-bean-potato-mushroom-stew.md"
   ]
 }
