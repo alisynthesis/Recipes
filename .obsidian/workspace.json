@@ -128,6 +128,18 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "9480b1257ed9135b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -138,27 +150,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0522b1f81c73eb2",
+  "active": "dec01144de4aab49",
   "lastOpenFiles": [
-    "search_notes.json",
-    "search.json",
-    "netlify.toml",
-    "LICENSE",
-    "Gemfile.lock",
-    "Gemfile",
-    "debug.yml",
-    "blog.code-workspace",
-    "autocomplete.txt",
-    "404.html",
-    "_config.yml",
+    "Recipes/_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
+    "_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
+    "Recipes/_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
+    "Recipes/_site/notes/awesome-sausage-apple-and-cranberry-stuffing.html",
+    "Recipes/_site/notes/butternut-squash-rice-and-sausage-casserole.html",
+    "Recipes/_site/notes/3-ingredient-stovetop-macaroni-and-cheese.html",
+    "Recipes/_site/notes/chicken-with-sun-dried-tomato-cream-sauce.html",
+    "Recipes/_site/notes/best-big-fat-chewy-chocolate-chip-cookie.html",
+    "Recipes/_site/notes/broccoli-risotto-with-cream-and-lemon.html",
+    "Recipes/_site/notes/easy-garlic-ginger-glazed-sticky-pork.html",
+    "_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
     "notes.md",
     "index.md",
     "dates.md",
