@@ -158,8 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dec01144de4aab49",
+  "active": "c0522b1f81c73eb2",
   "lastOpenFiles": [
+    "notes.md",
+    "index.md",
+    "about.md",
+    "assets/templates/template-frontmatter.md",
+    "tags.md",
+    "README.md",
+    "chicken-pot-pie-soup-13.jpg",
+    "dates.md",
     "Recipes/_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
     "_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
     "Recipes/_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
@@ -170,12 +178,6 @@
     "Recipes/_site/notes/best-big-fat-chewy-chocolate-chip-cookie.html",
     "Recipes/_site/notes/broccoli-risotto-with-cream-and-lemon.html",
     "Recipes/_site/notes/easy-garlic-ginger-glazed-sticky-pork.html",
-    "_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
-    "notes.md",
-    "index.md",
-    "dates.md",
-    "chicken-pot-pie-soup-13.jpg",
-    "about.md",
     "_notes/ma-beatys-cobbler.md",
     "assets/img/ma-beaty-peach-cobbler-recipe.jpg",
     "_notes/Chicken and Sausage Gnocchi Stew.md",
@@ -200,11 +202,9 @@
     "_notes/~How to use the special features.md",
     "_notes/warming-red-lentil-sweet-potato-soup.md",
     "_notes/~How-to-setup-this-site.md",
-    "README.md",
     "_notes/chocolate-peanut-butter-tart.md",
     "_notes/coconut-chicken-curry-with-cashews.md",
     "_site/README.md",
-    "_notes/african-chicken-peanut-stew.md",
-    "_notes/avocado-pesto-pasta-sauce.md"
+    "_notes/african-chicken-peanut-stew.md"
   ]
 }
