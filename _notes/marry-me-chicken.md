@@ -7,28 +7,22 @@ tags:
 toc: true
 ---
 Originally from [NY Times](https://cooking.nytimes.com/recipes/1024503-marry-me-chicken)
-
 Makes 4 servings
-
-Prep 20 minutes
-
-Cook 1 hr
-
 ### Ingredients
 
-* 3large boneless, skinless chicken breasts, or 6 chicken cutlets (about 2¼ pounds total), patted dry
+* 3 large boneless, skinless chicken breasts, or 6 chicken cutlets (about 2¼ pounds total), patted dry
 - Kosher salt (such as Diamond Crystal) and black pepper
-- ¼cup all-purpose flour
-- 3tablespoons extra-virgin olive oil, plus more as needed
-- 3tablespoons unsalted butter
-- 3garlic cloves, chopped
-- 1tablespoon tomato paste
-- ½teaspoon dried oregano 
+- ¼ cup all-purpose flour
+- 3 tablespoons extra-virgin olive oil, plus more as needed
+- 3 tablespoons unsalted butter
+- 3 garlic cloves, chopped
+- 1 tablespoon tomato paste
+- ½ teaspoon dried oregano 
 - Red-pepper flakes, to taste  
-- 1cup low-sodium chicken stock
-- ½ to ¾cup heavy cream
-- ½cup (1½ ounces) grated Parmesan
-- ⅓cup sliced sun-dried tomatoes, packed in oil
+- 1 cup low-sodium chicken stock
+- ½ to ¾ cup heavy cream
+- ½ cup (1½ ounces) grated Parmesan
+- ⅓ cup sliced sun-dried tomatoes, packed in oil
 - Fresh basil, for serving
 
 ### Instructions
