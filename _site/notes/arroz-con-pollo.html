@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="My linked notebook" property="og:site_name"/>
+    <meta content="My path to perpetual learning." property="og:description">
+    <meta content="http://localhost:4000/about/" property="article:author"><meta content="Arroz con Pollo" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="http://localhost:4000/notes/arroz-con-pollo" property="og:url"><title>Wilder Recipes</title>
+
+    <link rel="canonical" href="http://localhost:4000/notes/arroz-con-pollo"/>
+    <link rel="apple-touch-icon" href="/assets/img/profile.png">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+
+    <link rel="icon" href="/assets/img/favicon.png" type="image/png" sizes="16x16"/>
+    <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default"/>
+
+    <!--[if IE]>
+        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml">
+
+
+</script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+</head>
+
+<body>
+
+
+
+    <div class="container">                    
+        <div class = "box">
+<header>
+    <div class="dashboard disable-select">
+        <div class="site-heading profile-board-col">
+           <h4 class="medium"><a href="/">Wilder Recipes</a></h4>
+        </div>
+        <div class="userboard profile-board-col">
+            <div class="username">
+                <p class="title-sans"><a href="/" style="text-decoration: none;">My Recipes</a></p>
+            </div>
+            <div class="userdesc">
+                <p class="title-sans">The cream of the crop</p>
+            </div> 
+
+        </div>
+    </div>
+    <div class="avatar disable-select" title="click me to know more">
+        <a class="avatar-link" href="/">
+            <img src="/assets/img/profile.png" class="avatar-img" alt="avatar"/>
+        </a>
+    </div>
+    <div class="main-site-subheader menu disable-select">
+        <div class="home">
+            <a style="text-decoration: none;" href="/about">
+                <svg class="icon-home" width="18" height="19" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20.9777 21.6138V19.6138C20.9777 18.553 20.5563 17.5356 19.8061 16.7854C19.056 16.0353 18.0386 15.6138 16.9777 15.6138H8.97768C7.91682 15.6138 6.8994 16.0353 6.14926 16.7854C5.39911 17.5356 4.97768 18.553 4.97768 19.6138V21.6138"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M12.9777 11.6138C15.1868 11.6138 16.9777 9.82298 16.9777 7.61385C16.9777 5.40471 15.1868 3.61385 12.9777 3.61385C10.7685 3.61385 8.97768 5.40471 8.97768 7.61385C8.97768 9.82298 10.7685 11.6138 12.9777 11.6138Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <p class="home-p">About</p>
+            </a>
+        </div>
+        <div class="categories">
+            <a style="text-decoration: none;" href="/tags">
+            <svg class="icon-category" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 9.5H20"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M4 15.5H20"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M10 3.5L8 21.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16 3.5L14 21.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>                               
+            <p class="categories-p">Tags</p>
+            </a>
+        </div>
+        <div class="rss">
+            <a style="text-decoration: none;" href="/feed.xml">
+                <svg class="icon-rss" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M4 11.5C6.38695 11.5 8.67613 12.4482 10.364 14.136C12.0518 15.8239 13 18.1131 13 20.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M4 4.5C8.24346 4.5 12.3131 6.18571 15.3137 9.18629C18.3143 12.1869 20 16.2565 20 20.5"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M5 20.5C5.55228 20.5 6 20.0523 6 19.5C6 18.9477 5.55228 18.5 5 18.5C4.44772 18.5 4 18.9477 4 19.5C4 20.0523 4.44772 20.5 5 20.5Z"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>    
+            <p class="rss-p">RSS</p>
+            </a>
+        </div>
+
+    </div>
+    <div class="searchbar search-container">
+        <i class="fa fa-search" aria-hidden="true"></i>
+        <label for="search-input"></label>
+        <input type="text" oninput="changeResultContainerDisp(this.value)" id="search-input" autocomplete="off" placeholder="Search..."/>
+        <ul id="results-container"></ul>
+    </div>
+    <script src="/assets/js/simple-jekyll-search.min.js"></script>
+    <script>
+        function changeResultContainerDisp(val) {
+            if (val) {
+                document.getElementById("results-container").style.display = "block";
+                document.getElementById("search-input").addEventListener('blur', function() {
+                    document.addEventListener('click', function(event) {
+                        var isClickInside = document.getElementById("results-container").contains(event.target);
+                        if (!isClickInside) {
+                            document.getElementById("results-container").style.display = "none";
+                        }
+                    })
+                }) 
+            }  else {
+                document.getElementById("results-container").style.display = "none";
+            }
+        }
+        var sjs = SimpleJekyllSearch({
+                    searchInput: document.getElementById('search-input'),
+                    resultsContainer: document.getElementById('results-container'),
+                    json: '/search.json',
+                    searchResultTemplate: '<li class="search_res" style="list-style: none;"><a href="http://localhost:4000{url}" style="text-decoration: none; color: #555555;"><p style="font-size: 1.0rem; font-family: "Inter !important"; font-weight: 600;">{title}</p></a></li>',
+                    noResultsText: 'No results found',
+                    fuzzy: false,
+                    limit: 4
+                    })
+
+
+
+    </script><div class="main-site-subheader disable-select" id="scroll-head" onclick="window.location.assign('/');">
+        <div class="back-icon">
+            <svg class="ripple" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0z" fill="none"/>
+                <path d="M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21z"/>
+            </svg>
+        </div>
+        <p class="back-p">Accueil</p>
+    </div><script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+       tex2jax: {
+           inlineMath: [ ['$','$'], ['\\(', '\\)'] ],
+           displayMath: [ ['$$','$$'], ['\\[', '\\]'] ],
+           processEscapes: true
+               }
+           });
+</script>
+
+</header>
+<main>
+                <h1>Arroz con Pollo</h1><!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly --><ul class="tags"><!-- Loop through page categories and print them in tags --><li><a href="/tags/#OneDish" class="tag">OneDish</a></li></ul><ul class="section-nav">
+<li class="toc-entry toc-h3"><a href="#ingredients">Ingredients</a></li>
+<li class="toc-entry toc-h3"><a href="#instructions">Instructions</a></li>
+</ul><div class="content"><p>Originally from <a href="http://www.whatscookinchicago.com/2010/07/arroz-con-pollo.html">www.whatscookinchicago.com</a></p>
+
+<h3 id="ingredients">Ingredients</h3>
+
+<ul>
+  <li>6 medium cloves garlic, minced or pressed through garlic press (about 2 tablespoons)</li>
+  <li>Table salt</li>
+  <li>1/2 teaspoon dried oregano</li>
+  <li>1 tablespoon distilled white vinegar</li>
+  <li>Ground black pepper</li>
+  <li>8 bone-in, skin-on chicken thighs (3 1/2 to 4 pounds), trimmed of excess skin and fat</li>
+  <li>1 tablespoon olive oil</li>
+  <li>1 medium onion, chopped fine (about 1 cup)</li>
+  <li>1 small green and/or red bell pepper, stemmed, seeded, and chopped fine (about 3/4 cup)</li>
+  <li>1/4 teaspoon hot red pepper flakes</li>
+  <li>1/4 cup minced fresh cilantro leaves</li>
+  <li>1 cup ketchup</li>
+  <li>3 cups low-sodium chicken broth</li>
+  <li>1/4 cup water</li>
+  <li>1 packet (2 teaspoons) of Sazon seasoning (equal parts coriander, cumin, paprika, garlic powder, and some salt)</li>
+  <li>3 cups long-grain rice</li>
+  <li>1/2 cup pimento stuffed green olives, halved</li>
+  <li>1 tablespoon capers</li>
+  <li>Lemon wedges, for serving (optional)</li>
+</ul>
+
+<h3 id="instructions">Instructions</h3>
+
+<ol>
+  <li>Adjust oven rack to middle position and heat oven to 350 degrees. Place garlic and 1 teaspoon salt in large bowl; using rubber spatula, mix to make smooth paste. Add oregano, 1 tablespoon vinegar, and 1/2 teaspoon black pepper to garlic-salt mixture; stir to combine. Place chicken in bowl with marinade. Coat chicken pieces evenly with marinade; set aside for 15 minutes.</li>
+  <li>Meanwhile, heat 1 tablespoon oil in Dutch oven over medium heat until shimmering. Add onion and pepper flakes; cook, stirring occasionally, until the onion begin to soften. Push the onions and peppers to sides of pot and increase heat to medium-high. Add chicken to clearing in center of pot, skin side down, in even layer. Cook, without moving chicken, until outer layer of meat becomes opaque. (If chicken begins to brown, reduce heat to medium). Using tongs, flip chicken and cook on second side until opaque. Add ketchup, broth, and water; stir to combine. Bring to simmer; cover, reduce heat to medium-low, and simmer for 20 minutes.</li>
+  <li>Add rice, olives, capers, bell peppers, half of the chopped cilantro, Sazon and 3/4 teaspoon salt; stir well. Bring to simmer, cover, and place pot in oven. After 10 minutes, remove pot from oven and stir chicken and rice once from bottom up. Return pot to oven. After another 10 minutes, stir once more, adding 1/4 cup water if rice appears dry and bottom of pot is beginning to burn. Cover and return pot to oven; cook until rice has absorbed all liquid and is tender but still holds its shape and temperature of chicken registers 175 degrees on instant-read thermometer, about 10 minutes longer.</li>
+  <li>Using tongs, remove chicken from pot; replace lid and set pot aside. Remove and discard chicken skin; using 2 foks, pull meat off bones into large chunks. Using fingers or forks, remove remaining fat or dark veins from chicken pieces. Place chicken back into the pot on top of rice, cover, and let stand until warmed through, about 5 minutes. Add the remaining chopped cilantro, folding in to combine. Serve, passing lemon wedges separately.</li>
+</ol>
+
+<p>Tags: #Onedish</p>
+
+</div>
+<hr><!-- Add backlinks to the current page --><div class="related" id="jekyll-seamless-relatedposts">
+    <h4 class="medium-small">Related Posts </h4>
+    <div class="related-wrapper"><div class="related-group"><a href="/notes/3-ingredient-stovetop-macaroni-and-cheese">
+            <p class="related-title">3-Ingredient Stovetop Macaroni and Cheese</p>
+            <p class="related-excerpt">
+
+Originally from Serious Eats
+
+Ingredients
+
+
+  6 ounces (170g) elbow macaroni
+  Salt
+  6 ounces (180ml) evaporated milk
+  6 ounces (170g...</p>
+          </a></div><div class="related-group"><a href="/notes/african-chicken-peanut-stew">
+            <p class="related-title">African Chicken Peanut Stew</p>
+            <p class="related-excerpt">
+
+Originally from Simply Recipes
+
+Like peanut butter? Chicken? Then this African chicken peanut stew by Hank is for you. Perfect for chil...</p>
+          </a></div><div class="related-group"><a href="/notes/all-in-one-instant-pot-chicken-and-brown-rice">
+            <p class="related-title">All-in-one Instant Pot Chicken and Brown Rice</p>
+            <p class="related-excerpt">
+
+Originally from www.superhealthykids.com
+
+Makes 8 servings
+
+Ingredients
+
+
+  1 medium – onion
+  3 clove – garlic
+  2 cup – carrots, baby...</p>
+          </a></div><div class="related-group"><a href="/notes/basic-quiche">
+            <p class="related-title">Basic Quiche</p>
+            <p class="related-excerpt">Can easily be frozen
+
+Originally from onceamonthcook.com
+
+Makes 2 pies
+
+Ingredients
+
+
+  2 unbaked pie crusts
+  2 cups milk
+  8 eggs
+  1/2...</p>
+          </a></div><div class="related-group"><a href="/notes/butternut-squash-rice-and-sausage-casserole">
+            <p class="related-title">Butternut Squash, Rice And Sausage Casserole</p>
+            <p class="related-excerpt">Butternut Squash, Rice And Sausage Casserole
+
+
+
+Originally from www.geniuskitchen.com
+
+Ingredients
+
+
+  1 butternut squash
+  3 cups chicke...</p>
+          </a></div><div class="related-group"><a href="/notes/chicken-kokkinisto-with-orzo">
+            <p class="related-title">Chicken Kokkinisto with Orzo</p>
+            <p class="related-excerpt">
+
+Originally from All Recipes
+
+Makes 4 servings
+
+Prep 10 minutes
+
+Cook 1 hour, 15 minutes
+
+Total 1 hour, 25 minutes
+
+Ingredients
+
+
+  2 ta...</p>
+          </a></div><div class="related-group"><a href="/notes/creamy-cajun-chicken-pot">
+            <p class="related-title">Creamy Cajun Chicken Pot</p>
+            <p class="related-excerpt">
+
+Originally from www.howsweeteats.com
+
+Makes 2 to 4 servings
+
+Total 1 hour
+
+Ingredients
+
+
+  1 pound boneless, skinless chicken thighs, c...</p>
+          </a></div><div class="related-group"><a href="/notes/delicious-and-easy-mock-risotto">
+            <p class="related-title">Mock Risotto with Orzo</p>
+            <p class="related-excerpt">Originally from All Recipes
+
+Makes 4 servings
+
+Prep 5 minutes
+
+Cook 20 minutes
+
+Total 25 minutes
+
+Ingredients
+
+
+  2 tablespoons extra-vir...</p>
+          </a></div><div class="related-group"><a href="/notes/easy-jambalaya">
+            <p class="related-title">Easy Jambalaya</p>
+            <p class="related-excerpt">
+
+Originally from bevcooks.com
+
+Ingredients
+
+
+  4 Tbs. extra-virgin olive oil, divided
+  1/2 pound shrimp, peeled and deveined
+  2 andoui...</p>
+          </a></div></div>
+      <br/>
+</div></main><div id="copyright">
+    <p id="copyright-notice">Licence MIT</p>
+</div>
+</div>
+        <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
+    </div>
+
+    <script>
+        document.getElementById("scroll-to-top").addEventListener("click", function() {
+            window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
+        });
+    </script></body>
+
+
+
+</html>

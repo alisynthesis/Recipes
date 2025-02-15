@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "4e857bd18dd375f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a61d68947a736180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02544ad79583dc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c5afc6389105570",
+    "type": "split",
+    "children": [
+      {
+        "id": "2034a6dd77d8262b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7374daf758ce0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54088764bc1cab55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70386e70b3c9e848",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a65ac603e7028e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cef82cb011eea05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "516387cf088505a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cf17db285d36ed4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0ccd84e8316be57b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "306cc986bb164a21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f38662b2cae29341",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac7374daf758ce0e",
+  "lastOpenFiles": [
+    "Recipes/_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
+    "_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
+    "Recipes/_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
+    "Recipes/_site/notes/awesome-sausage-apple-and-cranberry-stuffing.html",
+    "Recipes/_site/notes/butternut-squash-rice-and-sausage-casserole.html",
+    "Recipes/_site/notes/3-ingredient-stovetop-macaroni-and-cheese.html",
+    "Recipes/_site/notes/chicken-with-sun-dried-tomato-cream-sauce.html",
+    "Recipes/_site/notes/best-big-fat-chewy-chocolate-chip-cookie.html",
+    "Recipes/_site/notes/broccoli-risotto-with-cream-and-lemon.html",
+    "Recipes/_site/notes/easy-garlic-ginger-glazed-sticky-pork.html",
+    "_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
+    "assets/templates/template-frontmatter.md",
+    "tags.md",
+    "about.md",
+    "notes.md",
+    "dates.md",
+    "index.md",
+    "README.md",
+    "chicken-pot-pie-soup-13.jpg",
+    "_notes/ma-beatys-cobbler.md",
+    "assets/img/ma-beaty-peach-cobbler-recipe.jpg",
+    "_notes/Chicken and Sausage Gnocchi Stew.md",
+    "_notes/French Onion Baked Lentils and Farro.md",
+    "_notes/Liquid Gold Sauce.md",
+    "_notes/Hot Chocolate Mix.md",
+    "_notes/Rice Krispies Treats.md",
+    "_notes/pasta-con-ceci.md",
+    "_notes/sausage-apples-potato-bake.md",
+    "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
+    "_notes/Instant Pot Curried Lentil Soup.md",
+    "_notes/Mexican Wedding Cookies.md",
+    "assets/img/EASY-Instant-Pot-Lentil-Soup-Comforting-nutrient-packed-infused-with-curry-powder-and-just-1-pot-required-minimalistbaker-recipe-plantbased-lentilsoup-instantpot-5.webp",
+    "assets/img/Mushroom-stew-7.jpg",
+    "assets/img/CREAMY-Instant-Pot-Butternut-Squash-Soup-9-ingredients-subtly-spicy-and-dairy-free-minimalistbaker-recipe-plantbased-instantpot-soup-7.jpg",
+    "assets/img/new notes pref.png",
+    "_site/assets/img/new notes pref.png",
+    "assets/img/profile.png",
+    "_site/assets/img/profile.png",
+    "assets/img/screenshot.png",
+    "_notes/~how-markdown-is-rendered.md",
+    "_notes/~How to use the special features.md",
+    "_notes/warming-red-lentil-sweet-potato-soup.md",
+    "_notes/~How-to-setup-this-site.md",
+    "_notes/chocolate-peanut-butter-tart.md",
+    "_notes/coconut-chicken-curry-with-cashews.md",
+    "_site/README.md"
+  ]
+}
