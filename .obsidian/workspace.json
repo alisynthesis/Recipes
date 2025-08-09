@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_notes/Peruvian Cilantro Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Peruvian Cilantro Sauce"
             }
           }
         ]
@@ -179,8 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac7374daf758ce0e",
+  "active": "02544ad79583dc04",
   "lastOpenFiles": [
+    "assets/img/green-sauce-5-500x500.jpg",
+    "_notes/cheesy-butternut-squash-pasta-sauce.md",
+    "_notes/Peruvian Cilantro Sauce.md",
+    "README.md",
     "Recipes/_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
     "_site/notes/chicken-thighs-with-apples-onions-and-white-cheddar-polenta.html",
     "Recipes/_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
@@ -191,14 +195,12 @@
     "Recipes/_site/notes/best-big-fat-chewy-chocolate-chip-cookie.html",
     "Recipes/_site/notes/broccoli-risotto-with-cream-and-lemon.html",
     "Recipes/_site/notes/easy-garlic-ginger-glazed-sticky-pork.html",
-    "_site/notes/all-in-one-instant-pot-chicken-and-brown-rice.html",
     "assets/templates/template-frontmatter.md",
     "tags.md",
     "about.md",
     "notes.md",
     "dates.md",
     "index.md",
-    "README.md",
     "chicken-pot-pie-soup-13.jpg",
     "_notes/ma-beatys-cobbler.md",
     "assets/img/ma-beaty-peach-cobbler-recipe.jpg",
@@ -224,8 +226,6 @@
     "_notes/~How to use the special features.md",
     "_notes/warming-red-lentil-sweet-potato-soup.md",
     "_notes/~How-to-setup-this-site.md",
-    "_notes/chocolate-peanut-butter-tart.md",
-    "_notes/coconut-chicken-curry-with-cashews.md",
-    "_site/README.md"
+    "_notes/chocolate-peanut-butter-tart.md"
   ]
 }
