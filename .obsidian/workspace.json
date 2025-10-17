@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Homemade Aussie Bites.md",
+                "file": "_notes/Hearty Chicken and Potato Stew.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homemade Aussie Bites"
+              "title": "Hearty Chicken and Potato Stew"
             }
           }
         ]
@@ -115,8 +115,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           },
           {
@@ -130,8 +130,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -144,8 +144,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "outline"
             }
           },
           {
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,6 +182,8 @@
   },
   "active": "4f4af9efcb43d975",
   "lastOpenFiles": [
+    "_notes/Instant Pot Curried Lentil Soup.md",
+    "_notes/Hearty Chicken and Potato Stew.md",
     "_notes/Homemade Aussie Bites.md",
     "_notes/Traditional Scottish Shortbread.md",
     "assets/img/Scottish-Shortbread-Recipe-10.jpg",
@@ -215,7 +218,6 @@
     "_notes/pasta-con-ceci.md",
     "_notes/sausage-apples-potato-bake.md",
     "_notes/Chickpea Curry with Coconut Milk and Tomato.md",
-    "_notes/Instant Pot Curried Lentil Soup.md",
     "_notes/Mexican Wedding Cookies.md",
     "assets/img/EASY-Instant-Pot-Lentil-Soup-Comforting-nutrient-packed-infused-with-curry-powder-and-just-1-pot-required-minimalistbaker-recipe-plantbased-lentilsoup-instantpot-5.webp",
     "assets/img/Mushroom-stew-7.jpg",
@@ -225,7 +227,6 @@
     "assets/img/profile.png",
     "_notes/~how-markdown-is-rendered.md",
     "_notes/~How to use the special features.md",
-    "_notes/warming-red-lentil-sweet-potato-soup.md",
-    "_notes/~How-to-setup-this-site.md"
+    "_notes/warming-red-lentil-sweet-potato-soup.md"
   ]
 }
