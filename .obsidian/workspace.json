@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Hearty Chicken and Potato Stew.md",
+                "file": "_notes/roasted-butternut-squash-soup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hearty Chicken and Potato Stew"
+              "title": "roasted-butternut-squash-soup"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "4f4af9efcb43d975",
   "lastOpenFiles": [
-    "_notes/Instant Pot Curried Lentil Soup.md",
     "_notes/Hearty Chicken and Potato Stew.md",
+    "_notes/roasted-butternut-squash-soup.md",
+    "_notes/Instant Pot Curried Lentil Soup.md",
     "_notes/Homemade Aussie Bites.md",
     "_notes/Traditional Scottish Shortbread.md",
     "assets/img/Scottish-Shortbread-Recipe-10.jpg",
@@ -226,7 +227,6 @@
     "_site/assets/img/new notes pref.png",
     "assets/img/profile.png",
     "_notes/~how-markdown-is-rendered.md",
-    "_notes/~How to use the special features.md",
-    "_notes/warming-red-lentil-sweet-potato-soup.md"
+    "_notes/~How to use the special features.md"
   ]
 }
